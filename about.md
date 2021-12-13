@@ -1,10 +1,8 @@
 ---
-title: About
+title: aderca de mi
 layout: page
 ---
 
-Hey! This is the "Leaf" Jekyll theme created by <a rel="me" target="_blank" href="https://twitter.com/_SupunKavinda">Supun Kavinda</a>.
+hola, yo soy alfonso en otros sitios conocidos como acasema aqui les dego mi [Github](https://github.com/acasemaSerrano)
 
-You can find the source code of this theme at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>
-
-(Change this by editing `about.md` file)
+(mas adelante abra un curriculum y un portafolios mas completo)
