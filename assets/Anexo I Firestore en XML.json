@@ -1,0 +1,72 @@
+{"collection": [
+    {
+        "ID": "user",
+        "doc": [
+            {
+                "id": "ejemplo@g.co",
+                "campo": [
+                    { "name": "pepe"}
+                ],
+                "collection":[
+                    {
+                        "ID": "data",
+                        "doc": [
+                            {
+                                "id": "mercadona",
+                                "campo": [
+                                    {"editing": null},
+                                    {
+                                        "permission": [
+                                            {"ouner": "ejemplo@g.co"},
+                                            {"permission": "editor"},
+                                            {"shopingList": "mercadona"},
+                                            {"tosomeone": "ejemplo2@g.co"}
+                                        ]
+                                    },
+                                    {
+                                        "elements": [
+                                            {
+                                                "amount": "20 litros",
+                                                "bought": true,
+                                                "lastDatePurchased": "9/12/2021",
+                                                "name": "leche",
+                                                "shopinListName": "mercadona"
+                                            },
+                                            {
+                                                "amount": "0,4 x 10 m",
+                                                "bought": false,
+                                                "lastDatePurchased": "8/12/2021",
+                                                "name": "vigas",
+                                                "shopinListName": "mercadona"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "collection":[]
+                            }
+                        ]
+                    },
+                    {
+                        "ID": "dataPermission",
+                        "doc": [
+                            {
+                                "id": "ejemplo2@g.co+lidel",
+                                "campo": [
+                                    {
+                                        "permission": [
+                                            {"ouner": "ejemplo@g.co"},
+                                            {"permission": "editor"},
+                                            {"shopingList": "mercadona"},
+                                            {"tosomeone": "ejemplo2@g.co"}
+                                        ]
+                                    }
+                                ],
+                                "collection":[]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]}
