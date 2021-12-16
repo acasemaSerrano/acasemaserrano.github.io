@@ -1,5 +1,5 @@
 ---
-title: aderca de mi
+title: acerca de mi
 layout: page
 ---
 
