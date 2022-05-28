@@ -24,6 +24,13 @@ title: projectExplorer
 
 - Puedes recrear una carpeta de un enlace corrompido o modificar a conde apunta el enlace.
 
-### documentacion y archibos requerido
+### Tecnologia y progamas
+
++ .net Framework 4.8
+	+ Form
+	+ Thread
++ Visual studios 2022
+
+### Documentacion y archibos requerido
 
 + Código fuente [Github](https://github.com/acasemaSerrano/projectExplorer)
